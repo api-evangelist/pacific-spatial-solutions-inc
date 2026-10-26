@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Pacific Spatial Solutions Inc. is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://pacificspatial.com
+Pacific Spatial Solutions Inc. provides geospatial data services and analytics platforms for enterprises. The company focuses on integrating satellite imagery, GIS data, and AI-driven insights to help clients make informed decisions in sectors such as agriculture, environmental monitoring, and urban planning. Founded to bridge the gap between raw spatial data and actionable intelligence, Pacific Spatial Solutions offers APIs for data retrieval, processing, and visualization, supporting developers with robust documentation and support channels.
+
+**Areas:** Geospatial · GIS · Data · Analytics · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pacificspatial.com)
+- [Support](https://support.pacificspatial.com/portal/sign_in)
+- [Blog](https://pacificspatial.com/news/)
+- [Privacy policy](https://pacificspatial.com/privacy/)
+- [GitHub](https://github.com/pacificspatial)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/pacific-spatial-solutions-inc/](https://apis.io/providers/pacific-spatial-solutions-inc/).
